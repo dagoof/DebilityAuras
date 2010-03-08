@@ -1,0 +1,8 @@
+## Title: DebilityAuras
+## Interface: 30320
+## Version: 0.2.1
+## Author: dagoof
+## Notes: Just not quite as powerful...
+## SavedVariablesPerCharacter: DebilityAurasBuffs
+
+DebilityAuras.lua
